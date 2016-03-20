@@ -1,2 +1,4 @@
-# Ti-project-groep4-B
-Repo voor Projectgroep 4
+# TI Project Groep4 B
+Github Repo voor Projectgroep 4. 
+
+
